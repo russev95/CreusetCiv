@@ -1,0 +1,58 @@
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+h2 {
+    font-style: italic;
+    text-align: center;
+}
+a:visited {
+    color: blue;
+}
+* {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.map {
+    height: 300px;
+    width: 300px;
+}
+.summary {
+    border: black solid 3px;
+}
+.navigation p {
+    padding: 10px;
+}
+.navigation a {
+    color: black;
+    font-size: 30px; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+p {
+    padding: 5px 20px;
+    margin: 5px;
+}
+li {
+    text-align: justify;
+}
+.banner {
+    color: black;
+    background-color: 
+    height: 300px;
+    padding: 100px 1300px
+} 
+.logo {
+    background-color: 
+    padding : 20px 500px;
+    margin: 1px;
+}
+
+#presentation {
+    font-size:x-large;
+}
+.post_croisade {
+    height: 300px;
+    width: 450px;
+}
