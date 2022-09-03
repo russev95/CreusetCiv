@@ -56,3 +56,7 @@ li {
     height: 300px;
     width: 450px;
 }
+
+#legende {
+    font-style: italic;
+}
