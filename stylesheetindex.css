@@ -161,6 +161,11 @@ a {
     top: 30rem; 
     left: 70rem;
 }
+#afghanistan {
+    position: absolute;
+    top: 80rem;
+    left: 30rem;
+}
 
 #presentation {
     color: black;
@@ -183,7 +188,7 @@ a {
 footer {
     color: black;
     position: absolute;
-    top: 80rem;
+    top: 150rem;
     bottom: 2rem;
     left: 50rem;
     text-align: center;

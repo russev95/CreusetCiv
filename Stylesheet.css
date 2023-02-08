@@ -60,3 +60,11 @@ li {
 #legende {
     font-style: italic;
 }
+
+table, caption, th, td {
+
+    border: 2px solid black;
+    text-align: center;
+    
+    }
+    
